@@ -1,0 +1,123 @@
+h4{
+  color: black;
+}
+
+h2{
+  color: black;
+  font-family: "times new roman", times, serif;
+  font-size: 40px
+  font-weight:bold;
+  text-align:center;
+  background-color: ;
+}
+
+body{
+    background-color: #5AC18E;
+    text-align: justify;
+    font-family: sans-serif;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/429/840/original/vector-mental-health-and-psychology-concept.jpg);
+    font-weight: bold;
+    padding: 25px;
+    margin: 50px;
+    color: black;
+
+}
+/*All headings are under the class "heading" in html so use this section
+for editing them :) */
+.Heading{
+
+  text-align: center;
+  font-family:fantasy;
+  font-weight: lighter;
+}
+
+.resourceslink{
+background-color:  #E3AFAF;
+padding:15px;
+}
+img{
+  width: 40%
+
+}
+
+iframe{
+  width: 20%
+  align: center
+}
+
+.navigationbar {
+display: block;
+background-color: #3FBFBF;
+margin: 10px;
+padding: 10px;
+border-radius: 50px
+
+}
+
+.webpagetitle{
+
+  font-family:"times new roman", times, serif ;
+  text-align: center;
+}
+
+.Introduction{
+  padding: 25px;
+  background-color: #E3AFAF
+}
+
+.listofsocialissues{
+
+  background-color: #E3AFAF;
+}
+
+.submit{
+background-color: #43E48E;
+
+}
+.Mission{
+
+  text-align: center;
+}
+
+.freeresources{
+  padding: 25px;
+  background-color:#E3AFAF;
+}
+
+.AboutMe{
+  padding: 25px;
+  margin: 50px;
+  background-color: #E3AFAF
+
+}
+
+#aboutnav{
+  padding:10px;
+}
+
+#resourcesnav{
+
+  padding: 10px
+}
+
+.footerbar{
+  display: block;
+  background-color: #40E0D0;
+  margin: 25px;
+  padding: 25px;
+  border-radius: 50px;
+
+}
+
+#footerpage1{
+
+  padding:10px;
+}
+#footerpage2{
+
+  padding:10px;
+}
+
+#footerpage3{
+  padding:10px;
+}
